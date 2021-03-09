@@ -1,0 +1,19 @@
+.header{
+    background-color: rgb(8, 137, 243);
+     display: flex;
+     justify-content: center;
+    }
+
+.wou{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content:space-between;
+}
+
+.teddy{background-color: tomato; border-style:groove ;}
+.chameleon{background-color: orange; border-style:groove}
+.cicada{background-color: yellow; border-style:groove}
+.pidgeon{background-color:rgb(84, 230, 84); border-style:groove}
+.camel{background-color: turquoise; border-style:groove}
+.panda{background-color: indigo ; border-style:groove}
+.whole{display: flex; justify-content: space-evenly; flex-wrap: wrap; border-style:double}
